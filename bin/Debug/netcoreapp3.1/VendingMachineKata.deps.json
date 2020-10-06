@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VendingMachineKata/1.0.0": {
+        "runtime": {
+          "VendingMachineKata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachineKata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
